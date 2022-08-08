@@ -1,7 +1,8 @@
 dealer_array.sh
 .vscode
-*/dealerInfo.json
-*/package-lock.json
+**/dealerInfo.json
+**/package-lock.json
+**/mergeTables.json
 
 # Created by https://www.toptal.com/developers/gitignore/api/git,visualstudio,macos,windows,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=git,visualstudio,macos,windows,linux
